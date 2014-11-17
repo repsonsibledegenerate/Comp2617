@@ -1,0 +1,4 @@
+﻿  Assisgnment5.cpp
+\\vmware-host\shared folders\documents\visual studio 2013\projects\a00808650_dayton_assignment5\assisgnment5.cpp(23): warning C4101: 'duplicate' : unreferenced local variable
+\\vmware-host\shared folders\documents\visual studio 2013\projects\a00808650_dayton_assignment5\assisgnment5.cpp(57): warning C4715: 'searchArray' : not all control paths return a value
+  A00808650_Dayton_Assignment5.vcxproj -> \\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\A00808650_Dayton_Assignment5\Debug\A00808650_Dayton_Assignment5.exe
